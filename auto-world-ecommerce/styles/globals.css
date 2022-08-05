@@ -161,7 +161,6 @@ span.text-red {
 .hero-banner-container h1{
   color: white;
   font-size: 10em;
-  margin-left: -20px;
   text-transform: uppercase;
 }
 .hero-banner-image{
@@ -248,6 +247,7 @@ span.text-red {
   position: absolute;
   /* top: -35%;
   left: 8%; */
+  width: 45%;
   top: -25%;
   left: 25%;
 }
